@@ -1,4 +1,4 @@
-# GitHub Copilot Instructions for Python Development
+    # GitHub Copilot Instructions for Python Development (NiceGUI)
 
 ## Overview
 

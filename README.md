@@ -26,9 +26,10 @@ The primary goals of this repository are:
 
 ## Included Instructions
 
-* **`python/`:** Contains instructions focused on generating Python code that adheres to PEP 8, encourages OOP, utilizes type hints, applies design patterns(See `python/copilot_instructions.md`).
-* **`nicegui/`:** Contains instructions focused on generating Python code that adheres to Python standards and follows best practices for using the NiceGUI framework. (See `nicegui/copilot_instructions.md`).
-* *... (Add more examples as the collection grows)*
+* **`python/`:** Contains instructions focused on generating Python code that adheres to PEP 8, encourages OOP, utilizes type hints, applies design patterns(See `python/.githubcopilot_instructions.md`).
+* **`nicegui/`:** Contains instructions focused on generating Python code that adheres to Python standards and follows best practices for using the NiceGUI framework. (See `nicegui/.github/copilot_instructions.md`).
+* **`nicegui-fastapi-okta/`:** Contains instructions for Python Development (FastAPI, NiceGUI, Okta)(See `nicegui-fastapi/.github/copilot-instructions.md`).
+
 
 ## Contributing
 
