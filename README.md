@@ -48,3 +48,7 @@ Please ensure your contributions are clear, follow general best practices for th
 ## Conclusion
 
 By providing targeted instructions, we can harness the power of AI code generation more effectively, ensuring that the resulting code contributes positively to the long-term health and maintainability of our software projects. Let's build better code, together, with smarter AI assistance.
+
+> Instruction files generated with help from Google Gemini 2.5 Pro 
+
+[END]
